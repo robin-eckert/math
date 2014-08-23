@@ -658,6 +658,7 @@ run test_real_concept.cpp ../../test/build//boost_unit_test_framework ;
 run test_remez.cpp pch ../../test/build//boost_unit_test_framework ;
 run test_roots.cpp pch ../../test/build//boost_unit_test_framework ;
 run test_round.cpp pch ../../test/build//boost_unit_test_framework ;
+run test_full_round.cpp pch ../../test/build//boost_unit_test_framework ;
 run test_spherical_harmonic.cpp test_instances//test_instances pch_light ../../test/build//boost_unit_test_framework ;
 run test_students_t.cpp ../../test/build//boost_unit_test_framework ;
 run test_sign.cpp ../../test/build//boost_unit_test_framework ;
